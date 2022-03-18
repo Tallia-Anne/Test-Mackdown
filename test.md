@@ -1,5 +1,5 @@
 # *Bienvenu pour teste le langage  Mackdown*
-##  On va bien s'amuser et voici les étapes pour bien s'amuser:
+##   Voici les étapes pour bien s'amuser avec vos amis: 
 
 * aimer le code 
 * apprendre
